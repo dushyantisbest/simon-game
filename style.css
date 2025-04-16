@@ -1,0 +1,29 @@
+.box {
+  width: 300px;
+  height: 300px;
+  border-radius: 30px;
+  border: 7px solid black;
+}
+.one {
+  background-color: rgb(230, 128, 51);
+}
+.two{
+    background-color: rgb(44, 153, 211);
+}
+.three{
+    background-color: rgb(90, 200, 65);
+}
+.four{
+    background-color: violet;
+}
+body {
+  text-align: center;
+}
+#outerBox {
+  width: 650px;
+  height: 650px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 350px 350px;
+  grid-template-rows: 350px 350px;
+}
