@@ -73,12 +73,6 @@ Contributions are welcome! To contribute:
    git push origin feature/YourFeature
    ```
 
-5. Open a pull request.
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 Feel free to customize this README further to suit your project's needs. 
