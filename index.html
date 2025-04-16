@@ -1,21 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Simon Game</title>
-</head>
-<body>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
     <h1>Simon Game</h1>
-    <h3>Press any key to start game</h3>
-    <div id="outerBox">
-        <div class="box one"></div>
-        <div class="box two"></div>
-        <div class="box three"></div>
-        <div class="box four"></div>
+    <h3>Press any key or tap the button to start the game</h3>
+    <button id="startButton">Start Game</button>
+    <div id="finalScore" style="display: none">
+      <h3>Game Over! Your Score: <span id="scoreDisplay">0</span></h3>
+      <button id="restartButton">Restart</button>
     </div>
+    <div id="outerBox">
+      <div class="box one"></div>
+      <div class="box two"></div>
+      <div class="box three"></div>
+      <div class="box four"></div>
+    </div>
+
     <script src="script.js"></script>
-    
-    
-</body>
+  </body>
 </html>
