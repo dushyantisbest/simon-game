@@ -1,4 +1,4 @@
-Certainly! Here's an enhanced `README.md` file for the Simon Game project by [dushyantisbest](https://github.com/dushyantisbest/simon-game). This version provides a comprehensive overview, including setup instructions, gameplay details, and contribution guidelines.
+Project by [dushyantisbest](https://github.com/dushyantisbest/simon-game). This version provides a comprehensive overview, including setup instructions, gameplay details, and contribution guidelines.
 
 ---
 
