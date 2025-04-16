@@ -1,4 +1,4 @@
-Project by [dushyantisbest](https://github.com/dushyantisbest/simon-game). This version provides a comprehensive overview, including setup instructions, gameplay details, and contribution guidelines.
+Project by [Team 4 devops](https://github.com/dushyantisbest/simon-game). This version provides a comprehensive overview, including setup instructions, gameplay details, and contribution guidelines.
 
 ---
 
